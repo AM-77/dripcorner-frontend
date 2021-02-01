@@ -1,0 +1,14 @@
+node_modules
+logs
+run
+coverage
+assets
+public
+build
+.vscode
+.next
+tests
+*.*
+!*.js
+!*.jsx
+!*.scss
